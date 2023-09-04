@@ -1,7 +1,7 @@
 {
-	"capstone":{
-		"livelink": "https://github.com/eduardotemporal/capstone1",
-		"name": "Eduardo Temporal III",
-		"isMulti": false
-	}
+	"capstone": {
+  	"liveLink": "https://eduardotemporal.github.io/capstone1/",
+    "name": "Eduardo Temporal III",
+    "isMulti": false
+  }
 }
