@@ -21,7 +21,7 @@ background-color: #000000;
 
 
 h3{
-	margin-top:1;
+margin-top:1;
 }
 .navbar{
 font-family: 'Montserrat Alternates', sans-serif;
@@ -35,13 +35,13 @@ font-size:1rem;
 }
 
 .navGod{
-	color:#000000;
-	font-size: 20px;
+color:#000000;
+font-size: 20px;
 }
 .navGod:hover{
-	background-color: black;
-	color:white;
-	border-radius: 30px	;
+background-color: black;
+color:white;
+border-radius: 30px	;
 }
 
 
@@ -54,51 +54,50 @@ background-color:#ffffff;
 }
 
 .projectBorder:hover{
-	border: 10px solid;
-	border-image-source: url("https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/1492660/06bb85cd5f39a963a39ae9327ea4eb7da5cd30d4.png");
-	border-image-slice:20 fill;
+border: 10px solid;
+border-image-source: url("https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/1492660/06bb85cd5f39a963a39ae9327ea4eb7da5cd30d4.png");
+border-image-slice:20 fill;
 }
-
 
 
 .logo{
-	height:40px;
-	width:40px;
-	border:1px solid;
-	border-radius: 25px;
-	background-color: white;
+height:40px;
+width:40px;
+border:1px solid;
+border-radius: 25px;
+background-color: white;
 }
 
 .logo-tools{
-	height: 70px;
-	width:70px;
-	border:1px solid;
-	border-radius: 40px;
-	background-color: white;
+height: 70px;
+width:70px;
+border:1px solid;
+border-radius: 40px;
+background-color: white;
 }
 
 hr{
-    height: 3px;
-    color: #ffffff;
-    background-color: #ffffff;
-    border: none;
+height: 3px;
+color: #ffffff;
+background-color: #ffffff;
+border: none;
 }
 
 .map-border{
-	border-radius: 80px;
-	border
+border-radius: 80px;
+border
 }
 
 .contacts-round{
-	border-radius: 20px;
+border-radius: 20px;
 }
 
 .logo-contacts-github{
-	height: 90px;
-	width:90px;
+height: 90px;
+width:90px;
 
 }
 .logo-contacts{
-	height: 70px;
-	width:70px;
+height: 70px;
+width:70px;
 }
