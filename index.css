@@ -1,15 +1,83 @@
 
-#navbar{
+#landing, #projects, #tools{
 font-family: 'Montserrat Alternates', sans-serif;
 font-family: 'Open Sans', sans-serif;
 font-family: 'Patua One', cursive;
 font-family: 'Roboto', sans-serif;
 font-family: 'Rubik Iso', cursive;
+font-family: 'VT323', monospace;
+background-color: #000000;
+	
+
 }
 
 #linkHover:hover{
 	color:black;
 
 }
+#landing{
+	border: 2px solid;
+	
+}
 
+
+
+
+
+h3{
+	margin-top:1;
+}
+.navbar{
+font-family: 'Montserrat Alternates', sans-serif;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Patua One', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Rubik Iso', cursive;
+font-weight:bold;
+color:white;
+font-size:1rem;
+}
+
+.navGod{
+	color:white;
+}
+.navGod:hover{
+	font-size:20px;
+	color:white;
+}
+
+.bg-cute{
+background-color:#000000;
+}
+
+
+.projectBorder:hover{
+	border: 10px solid;
+	border-image-source: url("https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/1492660/06bb85cd5f39a963a39ae9327ea4eb7da5cd30d4.png");
+	border-image-slice:20 fill;
+	
+}
+
+.logo{
+	height: 50px;
+	width:50px;
+	border:1px solid;
+	border-radius: 25px;
+	background-color: white;
+}
+
+.logo-tools{
+	height: 70px;
+	width:70px;
+	border:1px solid;
+	border-radius: 40px;
+	background-color: white;
+}
+
+hr {
+    height: 3px;
+    color: #ffffff;
+    background-color: #ffffff;
+    border: none;
+}
 
