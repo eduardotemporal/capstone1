@@ -1,15 +1,11 @@
 
-#landing, #projects, #tools{
-font-family: 'Montserrat Alternates', sans-serif;
-font-family: 'Open Sans', sans-serif;
-font-family: 'Patua One', cursive;
-font-family: 'Roboto', sans-serif;
-font-family: 'Rubik Iso', cursive;
+#landing, #projects, #tools, #contacts{
+
 font-family: 'VT323', monospace;
 background-color: #000000;
-	
-
 }
+
+
 
 #linkHover:hover{
 	color:black;
@@ -20,7 +16,9 @@ background-color: #000000;
 	
 }
 
-
+#contacts > h1, #landing > h1, #tools > h1, #projects > h1{
+	font-size:80px;
+}
 
 
 
@@ -34,33 +32,40 @@ font-family: 'Patua One', cursive;
 font-family: 'Roboto', sans-serif;
 font-family: 'Rubik Iso', cursive;
 font-weight:bold;
-color:white;
+color:black;
 font-size:1rem;
 }
 
 .navGod{
-	color:white;
+	color:#000000;
+	font-size: 20px;
 }
 .navGod:hover{
-	font-size:20px;
+	background-color: black;
 	color:white;
+	border-radius: 30px	;
 }
+
 
 .bg-cute{
 background-color:#000000;
 }
 
+.contactsRow{
+background-color:#ffffff;
+}
 
 .projectBorder:hover{
 	border: 10px solid;
 	border-image-source: url("https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/1492660/06bb85cd5f39a963a39ae9327ea4eb7da5cd30d4.png");
 	border-image-slice:20 fill;
-	
 }
 
+
+
 .logo{
-	height: 50px;
-	width:50px;
+	height:40px;
+	width:40px;
 	border:1px solid;
 	border-radius: 25px;
 	background-color: white;
@@ -74,10 +79,28 @@ background-color:#000000;
 	background-color: white;
 }
 
-hr {
+hr{
     height: 3px;
     color: #ffffff;
     background-color: #ffffff;
     border: none;
 }
 
+.map-border{
+	border-radius: 80px;
+	border
+}
+
+.contacts-round{
+	border-radius: 20px;
+}
+
+.logo-contacts-github{
+	height: 90px;
+	width:90px;
+
+}
+.logo-contacts{
+	height: 70px;
+	width:70px;
+}
