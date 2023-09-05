@@ -1,5 +1,5 @@
 
-#landing, #projects, #tools, #contacts{
+#landing, #projects, #tools, #contact{
 
 font-family: 'VT323', monospace;
 background-color: #000000;
@@ -15,7 +15,7 @@ background-color: #000000;
 	
 }
 
-#contacts > h1, #landing > h1, #tools > h1, #projects > h1{
+#contact > h1, #landing > h1, #tools > h1, #projects > h1{
 	font-size:80px;
 }
 
@@ -100,4 +100,10 @@ width:90px;
 .logo-contacts{
 height: 70px;
 width:70px;
+}
+
+.map{
+	width:600px;
+	height: 450px; 
+	style: border:0;
 }
